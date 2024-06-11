@@ -110,24 +110,28 @@ export const navItems = [
         "Collaborating with Utkarsh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Utkarsh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Utkarsh is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
+      image: "/profile.svg",
     },
     {
       quote:
         "As the co-founder of Pixel Punks, I have had the pleasure of working closely with Utkarsh, our exceptional full stack developer. Utkarsh’s deep technical expertise, combined with his innovative approach, has been instrumental in driving our projects to success. His ability to seamlessly navigate between front-end and back-end development is impressive, and his dedication to delivering high-quality work on time is unparalleled. Utkarsh’s problem-solving skills and proactive attitude have consistently exceeded our expectations, making him an invaluable asset to our team. I wholeheartedly recommend Utkarsh for any challenging and dynamic development roles.",
       name: "Abhishek Tiwari",
       title: "Co-Founder of Pixel Punks",
+      image: "/profile2.jpg"
     },
     {
       quote:
         "Collaborating with Utkarsh was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Utkarsh's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Utkarsh is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
+      image: "/profile.svg",
     },
     {
       quote:
         "As the co-founder of Pixel Punks, I have had the pleasure of working closely with Utkarsh, our exceptional full stack developer. Utkarsh’s deep technical expertise, combined with his innovative approach, has been instrumental in driving our projects to success. His ability to seamlessly navigate between front-end and back-end development is impressive, and his dedication to delivering high-quality work on time is unparalleled. Utkarsh’s problem-solving skills and proactive attitude have consistently exceeded our expectations, making him an invaluable asset to our team. I wholeheartedly recommend Utkarsh for any challenging and dynamic development roles.",
       name: "Abhishek Tiwari",
       title: "Co-Founder of Pixel Punks",
+      image: "/profile2.jpg"
     },
     
   ];
